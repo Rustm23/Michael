@@ -1,11 +1,22 @@
 <h1>Hi, I'm Michael | IT Support & Cybersecurity Professional</h1>
 
 - <b>Microsoft Azure Entra ID</b>
-  - [Creating Users in Entra ID]()
-  - [Cloud Provisioning - P2 Licensing]()
-  - [Role Assignments]()
-  - [Group Assignments]()
-  - [Identity Lifecycle]()
-  - [Audit Logs]()
-  - [Sign-In Logs]()
-  - [Authentication]()
+- [Creating User's in Entra ID]()
+- [Cloud Provisioning - P2 Licensing]()
+- [Role Assignments]()
+- [Group Assignments]()
+- [Identity Lifecycle]()
+- [Audit Logs]()
+- [Sign-In Logs]()
+- [Authentication]()
+- <b>Deployment, Networking, Troubleshooting</b>
+- [Creating Resource Group, Deploying Virtual Machine, and RDP]()
+- [Creating and Managing Local Users]()
+- [Troubleshooting Network Connectivity]()
+- [Managing Windows Updates]()
+- [Software Installation]()
+- [Print Queue]()
+- [Credential Manager and Cache]()
+- [PowerShell]()
+- <b>Ticketing System</b>
+- [SpiceWorks Ticketing System]()
